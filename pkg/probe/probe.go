@@ -1,6 +1,5 @@
 package probe
 
-// Aqui você coloca suas funções e código relacionado ao pacote probe
 import (
 	"net/http"
 	"time"
